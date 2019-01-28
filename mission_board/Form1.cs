@@ -19,7 +19,7 @@ namespace mission_board
         public List<FileInfo> missionary_letters;
         public string selected_letter;
         public string selected_missionary;
-        public int max_list_letters = 15;
+        public int max_list_letters = 20;
 
         public int move_tracker = 0;
         public string selected_pushpin_name = "";
